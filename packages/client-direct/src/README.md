@@ -1,4 +1,4 @@
-# Bagel fine tuning 
+# Bagel fine tuning
 
 ## Setup
 
@@ -11,7 +11,7 @@ In bakery, create your model and fine-tune dataset.
 ## Fine-tune with Eliza
 
 ```bash
-curl -X POST http://localhost:3000/fine-tune \                                                                                           
+curl -X POST http://localhost:3000/fine-tune \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer jvBpxrTNqGqhnfQhSEqCdsG6aTSP8IBL" \
   -d '{

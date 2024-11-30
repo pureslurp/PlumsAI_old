@@ -6,10 +6,10 @@ import numpy as np
 def convert_date(date_str):
     # Parse the date string into a datetime object
     date_obj = datetime.strptime(date_str, "%m/%d/%Y")
-    
+
     # Format the datetime object to the desired output
     formatted_date = date_obj.strftime("%B %d, %Y")
-    
+
     return formatted_date
 
 def format_date(str):
