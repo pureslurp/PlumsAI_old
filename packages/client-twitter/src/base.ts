@@ -88,7 +88,7 @@ export class ClientBase extends EventEmitter {
     directions: string;
     lastCheckedTweetId: bigint | null = null;
     imageDescriptionService: IImageDescriptionService;
-    temperature: number = 0.5;
+    temperature: number = 0.7;
 
     requestQueue: RequestQueue = new RequestQueue();
 
