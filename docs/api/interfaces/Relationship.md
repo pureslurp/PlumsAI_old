@@ -14,7 +14,7 @@ Unique identifier
 
 #### Defined in
 
-packages/core/src/types.ts:463
+packages/core/src/types.ts:471
 
 ***
 
@@ -26,7 +26,7 @@ First user ID
 
 #### Defined in
 
-packages/core/src/types.ts:466
+packages/core/src/types.ts:474
 
 ***
 
@@ -38,7 +38,7 @@ Second user ID
 
 #### Defined in
 
-packages/core/src/types.ts:469
+packages/core/src/types.ts:477
 
 ***
 
@@ -50,7 +50,7 @@ Primary user ID
 
 #### Defined in
 
-packages/core/src/types.ts:472
+packages/core/src/types.ts:480
 
 ***
 
@@ -62,7 +62,7 @@ Associated room ID
 
 #### Defined in
 
-packages/core/src/types.ts:475
+packages/core/src/types.ts:483
 
 ***
 
@@ -74,7 +74,7 @@ Relationship status
 
 #### Defined in
 
-packages/core/src/types.ts:478
+packages/core/src/types.ts:486
 
 ***
 
@@ -86,4 +86,4 @@ Optional creation timestamp
 
 #### Defined in
 
-packages/core/src/types.ts:481
+packages/core/src/types.ts:489

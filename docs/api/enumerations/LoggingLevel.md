@@ -10,7 +10,7 @@
 
 #### Defined in
 
-packages/core/src/types.ts:1132
+packages/core/src/types.ts:1149
 
 ***
 
@@ -20,7 +20,7 @@ packages/core/src/types.ts:1132
 
 #### Defined in
 
-packages/core/src/types.ts:1133
+packages/core/src/types.ts:1150
 
 ***
 
@@ -30,4 +30,4 @@ packages/core/src/types.ts:1133
 
 #### Defined in
 
-packages/core/src/types.ts:1134
+packages/core/src/types.ts:1151

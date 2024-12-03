@@ -48,4 +48,4 @@
 
 ## Defined in
 
-packages/core/src/generation.ts:767
+packages/core/src/generation.ts:824

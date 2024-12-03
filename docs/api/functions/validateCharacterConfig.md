@@ -16,4 +16,4 @@ Validation function
 
 ## Defined in
 
-packages/core/src/enviroment.ts:130
+packages/core/src/environment.ts:133

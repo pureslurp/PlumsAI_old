@@ -26,4 +26,4 @@
 
 ## Defined in
 
-packages/core/src/generation.ts:952
+packages/core/src/generation.ts:1072

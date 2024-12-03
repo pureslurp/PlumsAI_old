@@ -10,4 +10,4 @@
 
 ## Defined in
 
-packages/core/src/embedding.ts:111
+packages/core/src/embedding.ts:118

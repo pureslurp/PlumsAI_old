@@ -14,7 +14,7 @@ Evaluation context
 
 #### Defined in
 
-packages/core/src/types.ts:411
+packages/core/src/types.ts:419
 
 ***
 
@@ -26,7 +26,7 @@ Example messages
 
 #### Defined in
 
-packages/core/src/types.ts:414
+packages/core/src/types.ts:422
 
 ***
 
@@ -38,4 +38,4 @@ Expected outcome
 
 #### Defined in
 
-packages/core/src/types.ts:417
+packages/core/src/types.ts:425

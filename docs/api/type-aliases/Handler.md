@@ -24,4 +24,4 @@ Handler function type for processing messages
 
 ## Defined in
 
-packages/core/src/types.ts:358
+packages/core/src/types.ts:366

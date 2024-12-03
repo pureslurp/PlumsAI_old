@@ -28,4 +28,4 @@ Promise resolving to "RESPOND", "IGNORE", "STOP" or null
 
 ## Defined in
 
-packages/core/src/generation.ts:469
+packages/core/src/generation.ts:526

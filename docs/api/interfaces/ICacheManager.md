@@ -22,7 +22,7 @@
 
 #### Defined in
 
-packages/core/src/types.ts:932
+packages/core/src/types.ts:949
 
 ***
 
@@ -48,7 +48,7 @@ packages/core/src/types.ts:932
 
 #### Defined in
 
-packages/core/src/types.ts:933
+packages/core/src/types.ts:950
 
 ***
 
@@ -66,4 +66,4 @@ packages/core/src/types.ts:933
 
 #### Defined in
 
-packages/core/src/types.ts:934
+packages/core/src/types.ts:951

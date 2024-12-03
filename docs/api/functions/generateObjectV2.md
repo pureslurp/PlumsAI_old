@@ -24,4 +24,4 @@ Configuration options for generating objects.
 
 ## Defined in
 
-packages/core/src/generation.ts:1042
+packages/core/src/generation.ts:1162

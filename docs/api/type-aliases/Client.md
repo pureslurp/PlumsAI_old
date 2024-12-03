@@ -38,4 +38,4 @@ Stop client connection
 
 ## Defined in
 
-packages/core/src/types.ts:555
+packages/core/src/types.ts:563

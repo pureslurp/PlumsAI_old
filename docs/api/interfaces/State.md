@@ -18,7 +18,7 @@ ID of user who sent current message
 
 #### Defined in
 
-packages/core/src/types.ts:232
+packages/core/src/types.ts:240
 
 ***
 
@@ -30,7 +30,7 @@ ID of agent in conversation
 
 #### Defined in
 
-packages/core/src/types.ts:235
+packages/core/src/types.ts:243
 
 ***
 
@@ -42,7 +42,7 @@ Agent's biography
 
 #### Defined in
 
-packages/core/src/types.ts:238
+packages/core/src/types.ts:246
 
 ***
 
@@ -54,7 +54,7 @@ Agent's background lore
 
 #### Defined in
 
-packages/core/src/types.ts:241
+packages/core/src/types.ts:249
 
 ***
 
@@ -66,7 +66,7 @@ Message handling directions
 
 #### Defined in
 
-packages/core/src/types.ts:244
+packages/core/src/types.ts:252
 
 ***
 
@@ -78,7 +78,7 @@ Post handling directions
 
 #### Defined in
 
-packages/core/src/types.ts:247
+packages/core/src/types.ts:255
 
 ***
 
@@ -90,7 +90,7 @@ Current room/conversation ID
 
 #### Defined in
 
-packages/core/src/types.ts:250
+packages/core/src/types.ts:258
 
 ***
 
@@ -102,7 +102,7 @@ Optional agent name
 
 #### Defined in
 
-packages/core/src/types.ts:253
+packages/core/src/types.ts:261
 
 ***
 
@@ -114,7 +114,7 @@ Optional message sender name
 
 #### Defined in
 
-packages/core/src/types.ts:256
+packages/core/src/types.ts:264
 
 ***
 
@@ -126,7 +126,7 @@ String representation of conversation actors
 
 #### Defined in
 
-packages/core/src/types.ts:259
+packages/core/src/types.ts:267
 
 ***
 
@@ -138,7 +138,7 @@ Optional array of actor objects
 
 #### Defined in
 
-packages/core/src/types.ts:262
+packages/core/src/types.ts:270
 
 ***
 
@@ -150,7 +150,7 @@ Optional string representation of goals
 
 #### Defined in
 
-packages/core/src/types.ts:265
+packages/core/src/types.ts:273
 
 ***
 
@@ -162,7 +162,7 @@ Optional array of goal objects
 
 #### Defined in
 
-packages/core/src/types.ts:268
+packages/core/src/types.ts:276
 
 ***
 
@@ -174,7 +174,7 @@ Recent message history as string
 
 #### Defined in
 
-packages/core/src/types.ts:271
+packages/core/src/types.ts:279
 
 ***
 
@@ -186,7 +186,7 @@ Recent message objects
 
 #### Defined in
 
-packages/core/src/types.ts:274
+packages/core/src/types.ts:282
 
 ***
 
@@ -198,7 +198,7 @@ Optional valid action names
 
 #### Defined in
 
-packages/core/src/types.ts:277
+packages/core/src/types.ts:285
 
 ***
 
@@ -210,7 +210,7 @@ Optional action descriptions
 
 #### Defined in
 
-packages/core/src/types.ts:280
+packages/core/src/types.ts:288
 
 ***
 
@@ -222,7 +222,7 @@ Optional action objects
 
 #### Defined in
 
-packages/core/src/types.ts:283
+packages/core/src/types.ts:291
 
 ***
 
@@ -234,7 +234,7 @@ Optional action examples
 
 #### Defined in
 
-packages/core/src/types.ts:286
+packages/core/src/types.ts:294
 
 ***
 
@@ -246,7 +246,7 @@ Optional provider descriptions
 
 #### Defined in
 
-packages/core/src/types.ts:289
+packages/core/src/types.ts:297
 
 ***
 
@@ -258,7 +258,7 @@ Optional response content
 
 #### Defined in
 
-packages/core/src/types.ts:292
+packages/core/src/types.ts:300
 
 ***
 
@@ -270,7 +270,7 @@ Optional recent interaction objects
 
 #### Defined in
 
-packages/core/src/types.ts:295
+packages/core/src/types.ts:303
 
 ***
 
@@ -282,7 +282,7 @@ Optional recent interactions string
 
 #### Defined in
 
-packages/core/src/types.ts:298
+packages/core/src/types.ts:306
 
 ***
 
@@ -294,7 +294,7 @@ Optional formatted conversation
 
 #### Defined in
 
-packages/core/src/types.ts:301
+packages/core/src/types.ts:309
 
 ***
 
@@ -306,7 +306,7 @@ Optional formatted knowledge
 
 #### Defined in
 
-packages/core/src/types.ts:304
+packages/core/src/types.ts:312
 
 ***
 
@@ -318,4 +318,4 @@ Optional knowledge data
 
 #### Defined in
 
-packages/core/src/types.ts:306
+packages/core/src/types.ts:314

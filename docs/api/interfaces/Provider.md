@@ -26,4 +26,4 @@ Data retrieval function
 
 #### Defined in
 
-packages/core/src/types.ts:451
+packages/core/src/types.ts:459

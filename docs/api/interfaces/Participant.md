@@ -14,7 +14,7 @@ Unique identifier
 
 #### Defined in
 
-packages/core/src/types.ts:512
+packages/core/src/types.ts:520
 
 ***
 
@@ -26,4 +26,4 @@ Associated account
 
 #### Defined in
 
-packages/core/src/types.ts:515
+packages/core/src/types.ts:523

@@ -14,7 +14,7 @@ Associated user
 
 #### Defined in
 
-packages/core/src/types.ts:349
+packages/core/src/types.ts:357
 
 ***
 
@@ -26,4 +26,4 @@ Message content
 
 #### Defined in
 
-packages/core/src/types.ts:352
+packages/core/src/types.ts:360

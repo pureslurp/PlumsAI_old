@@ -16,4 +16,4 @@
 
 ## Defined in
 
-packages/core/src/types.ts:1137
+packages/core/src/types.ts:1154

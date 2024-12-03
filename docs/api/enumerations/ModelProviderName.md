@@ -12,7 +12,7 @@ Available model providers
 
 #### Defined in
 
-packages/core/src/types.ts:210
+packages/core/src/types.ts:214
 
 ***
 
@@ -22,7 +22,7 @@ packages/core/src/types.ts:210
 
 #### Defined in
 
-packages/core/src/types.ts:211
+packages/core/src/types.ts:215
 
 ***
 
@@ -32,7 +32,7 @@ packages/core/src/types.ts:211
 
 #### Defined in
 
-packages/core/src/types.ts:212
+packages/core/src/types.ts:216
 
 ***
 
@@ -42,7 +42,7 @@ packages/core/src/types.ts:212
 
 #### Defined in
 
-packages/core/src/types.ts:213
+packages/core/src/types.ts:217
 
 ***
 
@@ -52,7 +52,7 @@ packages/core/src/types.ts:213
 
 #### Defined in
 
-packages/core/src/types.ts:214
+packages/core/src/types.ts:218
 
 ***
 
@@ -62,7 +62,17 @@ packages/core/src/types.ts:214
 
 #### Defined in
 
-packages/core/src/types.ts:215
+packages/core/src/types.ts:219
+
+***
+
+### TOGETHER
+
+> **TOGETHER**: `"together"`
+
+#### Defined in
+
+packages/core/src/types.ts:220
 
 ***
 
@@ -72,7 +82,7 @@ packages/core/src/types.ts:215
 
 #### Defined in
 
-packages/core/src/types.ts:216
+packages/core/src/types.ts:221
 
 ***
 
@@ -82,7 +92,7 @@ packages/core/src/types.ts:216
 
 #### Defined in
 
-packages/core/src/types.ts:217
+packages/core/src/types.ts:222
 
 ***
 
@@ -92,7 +102,7 @@ packages/core/src/types.ts:217
 
 #### Defined in
 
-packages/core/src/types.ts:218
+packages/core/src/types.ts:223
 
 ***
 
@@ -102,7 +112,7 @@ packages/core/src/types.ts:218
 
 #### Defined in
 
-packages/core/src/types.ts:219
+packages/core/src/types.ts:224
 
 ***
 
@@ -112,7 +122,7 @@ packages/core/src/types.ts:219
 
 #### Defined in
 
-packages/core/src/types.ts:220
+packages/core/src/types.ts:225
 
 ***
 
@@ -122,7 +132,7 @@ packages/core/src/types.ts:220
 
 #### Defined in
 
-packages/core/src/types.ts:221
+packages/core/src/types.ts:226
 
 ***
 
@@ -132,7 +142,7 @@ packages/core/src/types.ts:221
 
 #### Defined in
 
-packages/core/src/types.ts:222
+packages/core/src/types.ts:227
 
 ***
 
@@ -142,7 +152,7 @@ packages/core/src/types.ts:222
 
 #### Defined in
 
-packages/core/src/types.ts:223
+packages/core/src/types.ts:228
 
 ***
 
@@ -152,4 +162,34 @@ packages/core/src/types.ts:223
 
 #### Defined in
 
-packages/core/src/types.ts:224
+packages/core/src/types.ts:229
+
+***
+
+### GAIANET
+
+> **GAIANET**: `"gaianet"`
+
+#### Defined in
+
+packages/core/src/types.ts:230
+
+***
+
+### ALI\_BAILIAN
+
+> **ALI\_BAILIAN**: `"ali_bailian"`
+
+#### Defined in
+
+packages/core/src/types.ts:231
+
+***
+
+### VOLENGINE
+
+> **VOLENGINE**: `"volengine"`
+
+#### Defined in
+
+packages/core/src/types.ts:232

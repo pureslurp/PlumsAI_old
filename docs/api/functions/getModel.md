@@ -16,4 +16,4 @@
 
 ## Defined in
 
-packages/core/src/models.ts:309
+packages/core/src/models.ts:381

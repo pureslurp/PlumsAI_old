@@ -14,4 +14,4 @@
 
 ## Defined in
 
-packages/core/src/embedding.ts:93
+packages/core/src/embedding.ts:99

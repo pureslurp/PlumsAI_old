@@ -14,7 +14,7 @@ Database instance
 
 #### Defined in
 
-packages/core/src/types.ts:723
+packages/core/src/types.ts:740
 
 ## Methods
 
@@ -30,7 +30,7 @@ Optional initialization
 
 #### Defined in
 
-packages/core/src/types.ts:726
+packages/core/src/types.ts:743
 
 ***
 
@@ -46,7 +46,7 @@ Close database connection
 
 #### Defined in
 
-packages/core/src/types.ts:729
+packages/core/src/types.ts:746
 
 ***
 
@@ -66,7 +66,7 @@ Get account by ID
 
 #### Defined in
 
-packages/core/src/types.ts:732
+packages/core/src/types.ts:749
 
 ***
 
@@ -86,7 +86,7 @@ Create new account
 
 #### Defined in
 
-packages/core/src/types.ts:735
+packages/core/src/types.ts:752
 
 ***
 
@@ -120,7 +120,7 @@ Get memories matching criteria
 
 #### Defined in
 
-packages/core/src/types.ts:738
+packages/core/src/types.ts:755
 
 ***
 
@@ -138,7 +138,7 @@ packages/core/src/types.ts:738
 
 #### Defined in
 
-packages/core/src/types.ts:748
+packages/core/src/types.ts:765
 
 ***
 
@@ -162,7 +162,7 @@ packages/core/src/types.ts:748
 
 #### Defined in
 
-packages/core/src/types.ts:750
+packages/core/src/types.ts:767
 
 ***
 
@@ -192,7 +192,7 @@ packages/core/src/types.ts:750
 
 #### Defined in
 
-packages/core/src/types.ts:756
+packages/core/src/types.ts:773
 
 ***
 
@@ -218,7 +218,7 @@ packages/core/src/types.ts:756
 
 #### Defined in
 
-packages/core/src/types.ts:765
+packages/core/src/types.ts:782
 
 ***
 
@@ -238,7 +238,7 @@ packages/core/src/types.ts:765
 
 #### Defined in
 
-packages/core/src/types.ts:772
+packages/core/src/types.ts:789
 
 ***
 
@@ -270,7 +270,7 @@ packages/core/src/types.ts:772
 
 #### Defined in
 
-packages/core/src/types.ts:774
+packages/core/src/types.ts:791
 
 ***
 
@@ -292,7 +292,7 @@ packages/core/src/types.ts:774
 
 #### Defined in
 
-packages/core/src/types.ts:784
+packages/core/src/types.ts:801
 
 ***
 
@@ -324,7 +324,7 @@ packages/core/src/types.ts:784
 
 #### Defined in
 
-packages/core/src/types.ts:789
+packages/core/src/types.ts:806
 
 ***
 
@@ -346,7 +346,7 @@ packages/core/src/types.ts:789
 
 #### Defined in
 
-packages/core/src/types.ts:801
+packages/core/src/types.ts:818
 
 ***
 
@@ -366,7 +366,7 @@ packages/core/src/types.ts:801
 
 #### Defined in
 
-packages/core/src/types.ts:807
+packages/core/src/types.ts:824
 
 ***
 
@@ -386,7 +386,7 @@ packages/core/src/types.ts:807
 
 #### Defined in
 
-packages/core/src/types.ts:809
+packages/core/src/types.ts:826
 
 ***
 
@@ -408,7 +408,7 @@ packages/core/src/types.ts:809
 
 #### Defined in
 
-packages/core/src/types.ts:811
+packages/core/src/types.ts:828
 
 ***
 
@@ -436,7 +436,7 @@ packages/core/src/types.ts:811
 
 #### Defined in
 
-packages/core/src/types.ts:817
+packages/core/src/types.ts:834
 
 ***
 
@@ -454,7 +454,7 @@ packages/core/src/types.ts:817
 
 #### Defined in
 
-packages/core/src/types.ts:825
+packages/core/src/types.ts:842
 
 ***
 
@@ -472,7 +472,7 @@ packages/core/src/types.ts:825
 
 #### Defined in
 
-packages/core/src/types.ts:827
+packages/core/src/types.ts:844
 
 ***
 
@@ -490,7 +490,7 @@ packages/core/src/types.ts:827
 
 #### Defined in
 
-packages/core/src/types.ts:829
+packages/core/src/types.ts:846
 
 ***
 
@@ -508,7 +508,7 @@ packages/core/src/types.ts:829
 
 #### Defined in
 
-packages/core/src/types.ts:831
+packages/core/src/types.ts:848
 
 ***
 
@@ -526,7 +526,7 @@ packages/core/src/types.ts:831
 
 #### Defined in
 
-packages/core/src/types.ts:833
+packages/core/src/types.ts:850
 
 ***
 
@@ -544,7 +544,7 @@ packages/core/src/types.ts:833
 
 #### Defined in
 
-packages/core/src/types.ts:835
+packages/core/src/types.ts:852
 
 ***
 
@@ -562,7 +562,7 @@ packages/core/src/types.ts:835
 
 #### Defined in
 
-packages/core/src/types.ts:837
+packages/core/src/types.ts:854
 
 ***
 
@@ -580,7 +580,7 @@ packages/core/src/types.ts:837
 
 #### Defined in
 
-packages/core/src/types.ts:839
+packages/core/src/types.ts:856
 
 ***
 
@@ -598,7 +598,7 @@ packages/core/src/types.ts:839
 
 #### Defined in
 
-packages/core/src/types.ts:841
+packages/core/src/types.ts:858
 
 ***
 
@@ -618,7 +618,7 @@ packages/core/src/types.ts:841
 
 #### Defined in
 
-packages/core/src/types.ts:843
+packages/core/src/types.ts:860
 
 ***
 
@@ -638,7 +638,7 @@ packages/core/src/types.ts:843
 
 #### Defined in
 
-packages/core/src/types.ts:845
+packages/core/src/types.ts:862
 
 ***
 
@@ -656,7 +656,7 @@ packages/core/src/types.ts:845
 
 #### Defined in
 
-packages/core/src/types.ts:847
+packages/core/src/types.ts:864
 
 ***
 
@@ -674,7 +674,7 @@ packages/core/src/types.ts:847
 
 #### Defined in
 
-packages/core/src/types.ts:849
+packages/core/src/types.ts:866
 
 ***
 
@@ -694,7 +694,7 @@ packages/core/src/types.ts:849
 
 #### Defined in
 
-packages/core/src/types.ts:851
+packages/core/src/types.ts:868
 
 ***
 
@@ -716,7 +716,7 @@ packages/core/src/types.ts:851
 
 #### Defined in
 
-packages/core/src/types.ts:856
+packages/core/src/types.ts:873
 
 ***
 
@@ -738,7 +738,7 @@ packages/core/src/types.ts:856
 
 #### Defined in
 
-packages/core/src/types.ts:862
+packages/core/src/types.ts:879
 
 ***
 
@@ -760,7 +760,7 @@ packages/core/src/types.ts:862
 
 #### Defined in
 
-packages/core/src/types.ts:864
+packages/core/src/types.ts:881
 
 ***
 
@@ -780,4 +780,4 @@ packages/core/src/types.ts:864
 
 #### Defined in
 
-packages/core/src/types.ts:869
+packages/core/src/types.ts:886

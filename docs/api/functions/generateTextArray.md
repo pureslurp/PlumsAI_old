@@ -28,4 +28,4 @@ Promise resolving to an array of strings parsed from the model's response
 
 ## Defined in
 
-packages/core/src/generation.ts:607
+packages/core/src/generation.ts:664
