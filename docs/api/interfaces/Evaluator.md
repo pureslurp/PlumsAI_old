@@ -14,7 +14,7 @@ Whether to always run
 
 #### Defined in
 
-packages/core/src/types.ts:433
+packages/core/src/types.ts:425
 
 ***
 
@@ -26,7 +26,7 @@ Detailed description
 
 #### Defined in
 
-packages/core/src/types.ts:436
+packages/core/src/types.ts:428
 
 ***
 
@@ -38,7 +38,7 @@ Similar evaluator descriptions
 
 #### Defined in
 
-packages/core/src/types.ts:439
+packages/core/src/types.ts:431
 
 ***
 
@@ -50,7 +50,7 @@ Example evaluations
 
 #### Defined in
 
-packages/core/src/types.ts:442
+packages/core/src/types.ts:434
 
 ***
 
@@ -62,7 +62,7 @@ Handler function
 
 #### Defined in
 
-packages/core/src/types.ts:445
+packages/core/src/types.ts:437
 
 ***
 
@@ -74,7 +74,7 @@ Evaluator name
 
 #### Defined in
 
-packages/core/src/types.ts:448
+packages/core/src/types.ts:440
 
 ***
 
@@ -86,4 +86,4 @@ Validation function
 
 #### Defined in
 
-packages/core/src/types.ts:451
+packages/core/src/types.ts:443

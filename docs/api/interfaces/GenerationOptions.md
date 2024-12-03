@@ -12,7 +12,7 @@ Configuration options for generating objects with a model.
 
 #### Defined in
 
-packages/core/src/generation.ts:1132
+packages/core/src/generation.ts:1012
 
 ***
 
@@ -22,7 +22,7 @@ packages/core/src/generation.ts:1132
 
 #### Defined in
 
-packages/core/src/generation.ts:1133
+packages/core/src/generation.ts:1013
 
 ***
 
@@ -32,7 +32,7 @@ packages/core/src/generation.ts:1133
 
 #### Defined in
 
-packages/core/src/generation.ts:1134
+packages/core/src/generation.ts:1014
 
 ***
 
@@ -42,7 +42,7 @@ packages/core/src/generation.ts:1134
 
 #### Defined in
 
-packages/core/src/generation.ts:1135
+packages/core/src/generation.ts:1015
 
 ***
 
@@ -52,7 +52,7 @@ packages/core/src/generation.ts:1135
 
 #### Defined in
 
-packages/core/src/generation.ts:1136
+packages/core/src/generation.ts:1016
 
 ***
 
@@ -62,7 +62,7 @@ packages/core/src/generation.ts:1136
 
 #### Defined in
 
-packages/core/src/generation.ts:1137
+packages/core/src/generation.ts:1017
 
 ***
 
@@ -72,7 +72,7 @@ packages/core/src/generation.ts:1137
 
 #### Defined in
 
-packages/core/src/generation.ts:1138
+packages/core/src/generation.ts:1018
 
 ***
 
@@ -82,7 +82,7 @@ packages/core/src/generation.ts:1138
 
 #### Defined in
 
-packages/core/src/generation.ts:1139
+packages/core/src/generation.ts:1019
 
 ***
 
@@ -92,4 +92,4 @@ packages/core/src/generation.ts:1139
 
 #### Defined in
 
-packages/core/src/generation.ts:1140
+packages/core/src/generation.ts:1020

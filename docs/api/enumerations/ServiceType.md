@@ -10,7 +10,7 @@
 
 #### Defined in
 
-packages/core/src/types.ts:1138
+packages/core/src/types.ts:1121
 
 ***
 
@@ -20,7 +20,7 @@ packages/core/src/types.ts:1138
 
 #### Defined in
 
-packages/core/src/types.ts:1139
+packages/core/src/types.ts:1122
 
 ***
 
@@ -30,7 +30,7 @@ packages/core/src/types.ts:1139
 
 #### Defined in
 
-packages/core/src/types.ts:1140
+packages/core/src/types.ts:1123
 
 ***
 
@@ -40,7 +40,7 @@ packages/core/src/types.ts:1140
 
 #### Defined in
 
-packages/core/src/types.ts:1141
+packages/core/src/types.ts:1124
 
 ***
 
@@ -50,7 +50,7 @@ packages/core/src/types.ts:1141
 
 #### Defined in
 
-packages/core/src/types.ts:1142
+packages/core/src/types.ts:1125
 
 ***
 
@@ -60,7 +60,7 @@ packages/core/src/types.ts:1142
 
 #### Defined in
 
-packages/core/src/types.ts:1143
+packages/core/src/types.ts:1126
 
 ***
 
@@ -70,7 +70,7 @@ packages/core/src/types.ts:1143
 
 #### Defined in
 
-packages/core/src/types.ts:1144
+packages/core/src/types.ts:1127
 
 ***
 
@@ -80,4 +80,4 @@ packages/core/src/types.ts:1144
 
 #### Defined in
 
-packages/core/src/types.ts:1145
+packages/core/src/types.ts:1128

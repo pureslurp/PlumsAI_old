@@ -28,4 +28,4 @@ Promise resolving to array of text chunks with bleed sections
 
 ## Defined in
 
-packages/core/src/generation.ts:581
+packages/core/src/generation.ts:524

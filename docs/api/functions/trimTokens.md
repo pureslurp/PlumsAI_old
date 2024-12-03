@@ -28,4 +28,4 @@ The truncated text
 
 ## Defined in
 
-packages/core/src/generation.ts:480
+packages/core/src/generation.ts:423

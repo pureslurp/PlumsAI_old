@@ -28,4 +28,4 @@ If the API request fails
 
 ## Defined in
 
-packages/core/src/embedding.ts:145
+packages/core/src/embedding.ts:138

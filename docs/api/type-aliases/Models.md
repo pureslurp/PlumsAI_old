@@ -32,10 +32,6 @@ Model configurations by provider
 
 > **llama\_cloud**: [`Model`](Model.md)
 
-### together
-
-> **together**: [`Model`](Model.md)
-
 ### llama\_local
 
 > **llama\_local**: [`Model`](Model.md)
@@ -71,18 +67,6 @@ Model configurations by provider
 ### falai
 
 > **falai**: [`Model`](Model.md)
-
-### gaianet
-
-> **gaianet**: [`Model`](Model.md)
-
-### ali\_bailian
-
-> **ali\_bailian**: [`Model`](Model.md)
-
-### volengine
-
-> **volengine**: [`Model`](Model.md)
 
 ## Defined in
 

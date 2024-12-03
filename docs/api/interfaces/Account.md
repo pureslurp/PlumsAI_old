@@ -14,7 +14,7 @@ Unique identifier
 
 #### Defined in
 
-packages/core/src/types.ts:497
+packages/core/src/types.ts:489
 
 ***
 
@@ -26,7 +26,7 @@ Display name
 
 #### Defined in
 
-packages/core/src/types.ts:500
+packages/core/src/types.ts:492
 
 ***
 
@@ -38,7 +38,7 @@ Username
 
 #### Defined in
 
-packages/core/src/types.ts:503
+packages/core/src/types.ts:495
 
 ***
 
@@ -54,7 +54,7 @@ Optional additional details
 
 #### Defined in
 
-packages/core/src/types.ts:506
+packages/core/src/types.ts:498
 
 ***
 
@@ -66,7 +66,7 @@ Optional email
 
 #### Defined in
 
-packages/core/src/types.ts:509
+packages/core/src/types.ts:501
 
 ***
 
@@ -78,4 +78,4 @@ Optional avatar URL
 
 #### Defined in
 
-packages/core/src/types.ts:512
+packages/core/src/types.ts:504

@@ -8,4 +8,4 @@ Type inference
 
 ## Defined in
 
-packages/core/src/environment.ts:130
+packages/core/src/enviroment.ts:127

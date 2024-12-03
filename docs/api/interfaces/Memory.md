@@ -14,7 +14,7 @@ Optional unique identifier
 
 #### Defined in
 
-packages/core/src/types.ts:325
+packages/core/src/types.ts:317
 
 ***
 
@@ -26,7 +26,7 @@ Associated user ID
 
 #### Defined in
 
-packages/core/src/types.ts:328
+packages/core/src/types.ts:320
 
 ***
 
@@ -38,7 +38,7 @@ Associated agent ID
 
 #### Defined in
 
-packages/core/src/types.ts:331
+packages/core/src/types.ts:323
 
 ***
 
@@ -50,7 +50,7 @@ Optional creation timestamp
 
 #### Defined in
 
-packages/core/src/types.ts:334
+packages/core/src/types.ts:326
 
 ***
 
@@ -62,7 +62,7 @@ Memory content
 
 #### Defined in
 
-packages/core/src/types.ts:337
+packages/core/src/types.ts:329
 
 ***
 
@@ -74,7 +74,7 @@ Optional embedding vector
 
 #### Defined in
 
-packages/core/src/types.ts:340
+packages/core/src/types.ts:332
 
 ***
 
@@ -86,7 +86,7 @@ Associated room ID
 
 #### Defined in
 
-packages/core/src/types.ts:343
+packages/core/src/types.ts:335
 
 ***
 
@@ -98,7 +98,7 @@ Whether memory is unique
 
 #### Defined in
 
-packages/core/src/types.ts:346
+packages/core/src/types.ts:338
 
 ***
 
@@ -110,4 +110,4 @@ Embedding similarity score
 
 #### Defined in
 
-packages/core/src/types.ts:349
+packages/core/src/types.ts:341
