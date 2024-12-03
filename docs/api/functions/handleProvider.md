@@ -20,4 +20,4 @@ Configuration options specific to the provider.
 
 ## Defined in
 
-packages/core/src/generation.ts:1247
+packages/core/src/generation.ts:1127

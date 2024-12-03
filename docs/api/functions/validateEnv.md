@@ -12,4 +12,4 @@ Validation function
 
 ## Defined in
 
-packages/core/src/environment.ts:26
+packages/core/src/enviroment.ts:26

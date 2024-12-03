@@ -46,4 +46,4 @@ Text content
 
 ## Defined in
 
-packages/core/src/types.ts:540
+packages/core/src/types.ts:532

@@ -12,7 +12,7 @@ Available client platforms
 
 #### Defined in
 
-packages/core/src/types.ts:601
+packages/core/src/types.ts:593
 
 ***
 
@@ -22,7 +22,7 @@ packages/core/src/types.ts:601
 
 #### Defined in
 
-packages/core/src/types.ts:602
+packages/core/src/types.ts:594
 
 ***
 
@@ -32,7 +32,7 @@ packages/core/src/types.ts:602
 
 #### Defined in
 
-packages/core/src/types.ts:603
+packages/core/src/types.ts:595
 
 ***
 
@@ -42,4 +42,4 @@ packages/core/src/types.ts:603
 
 #### Defined in
 
-packages/core/src/types.ts:604
+packages/core/src/types.ts:596

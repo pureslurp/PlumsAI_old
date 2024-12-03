@@ -40,4 +40,4 @@ API Keys with specific formats
 
 ## Defined in
 
-packages/core/src/environment.ts:5
+packages/core/src/enviroment.ts:5

@@ -24,7 +24,7 @@
 
 #### Defined in
 
-packages/core/src/types.ts:968
+packages/core/src/types.ts:951
 
 ## Methods
 
@@ -48,7 +48,7 @@ Add abstract initialize method that must be implemented by derived classes
 
 #### Defined in
 
-packages/core/src/types.ts:973
+packages/core/src/types.ts:956
 
 ***
 
@@ -62,7 +62,7 @@ packages/core/src/types.ts:973
 
 #### Defined in
 
-packages/core/src/types.ts:1103
+packages/core/src/types.ts:1086
 
 ***
 
@@ -94,4 +94,4 @@ packages/core/src/types.ts:1103
 
 #### Defined in
 
-packages/core/src/types.ts:1104
+packages/core/src/types.ts:1087

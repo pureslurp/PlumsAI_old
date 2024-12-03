@@ -32,4 +32,4 @@
 
 ## Defined in
 
-packages/core/src/types.ts:1128
+packages/core/src/types.ts:1111

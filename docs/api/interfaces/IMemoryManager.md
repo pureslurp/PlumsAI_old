@@ -10,7 +10,7 @@
 
 #### Defined in
 
-packages/core/src/types.ts:905
+packages/core/src/types.ts:888
 
 ***
 
@@ -20,7 +20,7 @@ packages/core/src/types.ts:905
 
 #### Defined in
 
-packages/core/src/types.ts:906
+packages/core/src/types.ts:889
 
 ***
 
@@ -30,7 +30,7 @@ packages/core/src/types.ts:906
 
 #### Defined in
 
-packages/core/src/types.ts:907
+packages/core/src/types.ts:890
 
 ## Methods
 
@@ -48,7 +48,7 @@ packages/core/src/types.ts:907
 
 #### Defined in
 
-packages/core/src/types.ts:909
+packages/core/src/types.ts:892
 
 ***
 
@@ -76,7 +76,7 @@ packages/core/src/types.ts:909
 
 #### Defined in
 
-packages/core/src/types.ts:911
+packages/core/src/types.ts:894
 
 ***
 
@@ -94,7 +94,7 @@ packages/core/src/types.ts:911
 
 #### Defined in
 
-packages/core/src/types.ts:919
+packages/core/src/types.ts:902
 
 ***
 
@@ -112,7 +112,7 @@ packages/core/src/types.ts:919
 
 #### Defined in
 
-packages/core/src/types.ts:923
+packages/core/src/types.ts:906
 
 ***
 
@@ -132,7 +132,7 @@ packages/core/src/types.ts:923
 
 #### Defined in
 
-packages/core/src/types.ts:924
+packages/core/src/types.ts:907
 
 ***
 
@@ -160,7 +160,7 @@ packages/core/src/types.ts:924
 
 #### Defined in
 
-packages/core/src/types.ts:925
+packages/core/src/types.ts:908
 
 ***
 
@@ -180,7 +180,7 @@ packages/core/src/types.ts:925
 
 #### Defined in
 
-packages/core/src/types.ts:935
+packages/core/src/types.ts:918
 
 ***
 
@@ -198,7 +198,7 @@ packages/core/src/types.ts:935
 
 #### Defined in
 
-packages/core/src/types.ts:937
+packages/core/src/types.ts:920
 
 ***
 
@@ -216,7 +216,7 @@ packages/core/src/types.ts:937
 
 #### Defined in
 
-packages/core/src/types.ts:939
+packages/core/src/types.ts:922
 
 ***
 
@@ -236,4 +236,4 @@ packages/core/src/types.ts:939
 
 #### Defined in
 
-packages/core/src/types.ts:941
+packages/core/src/types.ts:924

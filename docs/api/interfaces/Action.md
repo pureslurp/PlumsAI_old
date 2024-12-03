@@ -14,7 +14,7 @@ Similar action descriptions
 
 #### Defined in
 
-packages/core/src/types.ts:396
+packages/core/src/types.ts:388
 
 ***
 
@@ -26,7 +26,7 @@ Detailed description
 
 #### Defined in
 
-packages/core/src/types.ts:399
+packages/core/src/types.ts:391
 
 ***
 
@@ -38,7 +38,7 @@ Example usages
 
 #### Defined in
 
-packages/core/src/types.ts:402
+packages/core/src/types.ts:394
 
 ***
 
@@ -50,7 +50,7 @@ Handler function
 
 #### Defined in
 
-packages/core/src/types.ts:405
+packages/core/src/types.ts:397
 
 ***
 
@@ -62,7 +62,7 @@ Action name
 
 #### Defined in
 
-packages/core/src/types.ts:408
+packages/core/src/types.ts:400
 
 ***
 
@@ -74,4 +74,4 @@ Validation function
 
 #### Defined in
 
-packages/core/src/types.ts:411
+packages/core/src/types.ts:403
