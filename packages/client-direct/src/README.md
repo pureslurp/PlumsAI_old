@@ -35,6 +35,7 @@ curl -X POST http://localhost:3000/fine-tune \
     }
   }'
 ```
+
 This can take a while to complete. You can check the status of the fine-tune job in the bakery dashboard. When it is complete, you can download the fine-tuned model here:
 
 ```bash

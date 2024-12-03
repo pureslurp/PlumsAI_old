@@ -12,7 +12,7 @@ Configuration options for generating objects with a model.
 
 #### Defined in
 
-packages/core/src/generation.ts:1012
+[packages/core/src/generation.ts:1035](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1035)
 
 ***
 
@@ -22,7 +22,7 @@ packages/core/src/generation.ts:1012
 
 #### Defined in
 
-packages/core/src/generation.ts:1013
+[packages/core/src/generation.ts:1036](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1036)
 
 ***
 
@@ -32,7 +32,7 @@ packages/core/src/generation.ts:1013
 
 #### Defined in
 
-packages/core/src/generation.ts:1014
+[packages/core/src/generation.ts:1037](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1037)
 
 ***
 
@@ -42,7 +42,7 @@ packages/core/src/generation.ts:1014
 
 #### Defined in
 
-packages/core/src/generation.ts:1015
+[packages/core/src/generation.ts:1038](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1038)
 
 ***
 
@@ -52,7 +52,7 @@ packages/core/src/generation.ts:1015
 
 #### Defined in
 
-packages/core/src/generation.ts:1016
+[packages/core/src/generation.ts:1039](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1039)
 
 ***
 
@@ -62,7 +62,7 @@ packages/core/src/generation.ts:1016
 
 #### Defined in
 
-packages/core/src/generation.ts:1017
+[packages/core/src/generation.ts:1040](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1040)
 
 ***
 
@@ -72,7 +72,7 @@ packages/core/src/generation.ts:1017
 
 #### Defined in
 
-packages/core/src/generation.ts:1018
+[packages/core/src/generation.ts:1041](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1041)
 
 ***
 
@@ -82,7 +82,7 @@ packages/core/src/generation.ts:1018
 
 #### Defined in
 
-packages/core/src/generation.ts:1019
+[packages/core/src/generation.ts:1042](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1042)
 
 ***
 
@@ -92,4 +92,4 @@ packages/core/src/generation.ts:1019
 
 #### Defined in
 
-packages/core/src/generation.ts:1020
+[packages/core/src/generation.ts:1043](https://github.com/ai16z/eliza/blob/main/packages/core/src/generation.ts#L1043)
