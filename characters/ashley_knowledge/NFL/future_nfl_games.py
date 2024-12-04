@@ -8,6 +8,19 @@ def format_date(str):
     y = str[:4]
     return convert_date(f"{m}/{d}/{y}")
 
+def get_day_of_week_iso(date_str):
+    """
+    Returns the day of the week for a given date in YYYY-MM-DD format.
+
+    :param date_str: A string representing a date in YYYY-MM-DD format.
+    :return: The day of the week as a string (e.g., 'Monday').
+    """
+    try:
+        date = datetime.strptime(date_str, '%Y-%m-%d')
+        return date.strftime('%A')  # Returns the full name of the day
+    except ValueError:
+        return "Invalid date format. Please use YYYY-MM-DD."
+
 def convert_date(date_str):
     # Parse the date string into a datetime object
     date_obj = datetime.strptime(date_str, "%m/%d/%Y")
@@ -38,7 +51,7 @@ class Matchup:
         self.game = game
         self.home_team = game['home_team']
         self.away_team = game['away_team']
-        self.start_time = format_date(game['commence_time'][:10])
+        self.start_time = game['commence_time'][:10]
 
     @property
     def spread(self):
@@ -76,7 +89,9 @@ class Matchup:
 
     @property
     def info(self):
-        return f"On {self.start_time}, the {self.away_team} play at the {self.home_team} where the spread is {self.underdog} {self.spread} points. This means the {self.favorite} are projected to win (also referred to as favorites) by {self.spread} points and the {self.underdog} are projected to lose (also referred to as underdogs) by {self.spread} points. The over/under is {self.ou}, which means the total score from each team is projected to be {self.ou}."
+        print(self.start_time)
+        return f"On {get_day_of_week_iso(self.start_time)} {format_date(self.start_time)}, the {self.away_team} play at the {self.home_team} where the spread is {self.underdog} {self.spread} points and the over/under is {self.ou}."
+        # This means the {self.favorite} are projected to win (also referred to as favorites) by {self.spread} points and the {self.underdog} are projected to lose (also referred to as underdogs) by {self.spread} points. The over/under is {self.ou}, which means the total score from each team is projected to be {self.ou}.
 
 
 
