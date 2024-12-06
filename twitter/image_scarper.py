@@ -14,8 +14,7 @@ def send_image_to_chatgpt(image_path, prompt):
         str: ChatGPT's response to the image and prompt
     """
     # Initialize the OpenAI client
-    # Make sure to set your OPENAI_API_KEY environment variable
-    # client = OpenAI()
+    # client =
 
     # Encode the image to base64
     def encode_image(image_path):
